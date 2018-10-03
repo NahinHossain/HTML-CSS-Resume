@@ -1,8 +1,13 @@
 /* Your CSS styles go here */
-title{
-    background-color: red;
+body{
+	background-color:   #85c1e9 ;
+}
+
+h1{
+	color:   #5b2c6f  ;
+	text-align: center;
 }
 h2{
-    color: yellow;
+	color:  #7d3c98 ;
     font-family: 'serif';
 }
